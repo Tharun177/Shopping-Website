@@ -1,0 +1,16 @@
+my-app
+|-- public
+|   |-- index.html
+|   |-- styles.css
+|-- src
+|   |-- components
+|   |   |-- Cart.js
+|   |   |-- Filtering.js
+|   |   |-- ProductRecommendations.js
+|   |   |-- ProductReviews.js
+|   |   |-- Sorting.js
+|   |   |-- Wishlist.js
+|   |-- App.js
+|   |-- index.js
+|-- package.json
+|-- package-lock.json

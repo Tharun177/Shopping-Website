@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .category {
+    cursor: pointer;
+    padding: 8px;
+  }
+  
+  .subcategory {
+    padding-left: 16px;
+  }
+  
