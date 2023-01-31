@@ -1,0 +1,9 @@
+- src/
+  - App.js
+  - components/
+    - Dropdown.js
+    - Typeahead.js
+  - data/
+    - categories.json
+  - styles/
+    - index.css
